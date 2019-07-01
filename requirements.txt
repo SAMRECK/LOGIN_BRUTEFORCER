@@ -2,4 +2,3 @@ mechanize
 bs4
 lxml
 requests
-http.cookiejar
