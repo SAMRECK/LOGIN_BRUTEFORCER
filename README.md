@@ -4,7 +4,7 @@ This tool aims to bruteforce the login credentials from a given wordlist for a g
 
 # FEATURES
 - Selection of Target feild
-- Random User Agent
+- Bruteforces with different User Agents
 - Form Detection
 - CSRF and Clickjacking Scanner
 
@@ -22,6 +22,8 @@ This tool aims to bruteforce the login credentials from a given wordlist for a g
 - Run using command:
   - python final.py
 - Now enter the URL of the login page.
+
+
 
 ![Screenshot from 2019-07-01 10-20-02](https://user-images.githubusercontent.com/42610642/60411459-7a6b0f80-9bea-11e9-8a93-1b367507aa2d.png)
 
