@@ -10,7 +10,7 @@ This tool aims to bruteforce the login credentials from a given wordlist for a g
 
 # FEATURES TO BE ADDED
 - IP Bouncing to hide the real Attacker.
-- Threading to make it more quick.
+- Threading to make it more faster.
 
 # HOW TO INSTALL
 - Enter below command in terminal:
